@@ -1,16 +1,37 @@
 ---
-title: My book title
-author: Daniel Herzog
-rights: MIT License
+title: Lincoln-Douglas Debate from First Principles
+subtitle: A short primer for the activity.
+biblio-title: Bibliography
+reference-section-title: Bibliography
+author: Ethan Nathaniel Elasky
+rights: CC-BY-NC-SA-4.0
 lang: en-US
 mainlang: english
 otherlang: english
-tags: [pandoc, book, my-book, etc]
+tags: [book, debate, manual, guide, speech, competition, ebook]
+date: 10 Sep 2025
 abstract: |
   Your summary.
 mainfont: DejaVu Sans
-# Filter preferences:
-# - pandoc-crossref
+Filter preferences:
+  - pandoc-crossref
+geometry:
+  - margin=1.5in # Sets all margins (top, bottom, left, right) equally
 linkReferences: true
+link-citations: true
+numbersections: true
+# for better code processing
+listings: true
+# add pages in pdf between chapters
+header-includes:
+  - |
+    ```{=latex}
+    % Add new page before chapters start
+    \pretocmd{\section}{\newpage}{}{}  
+    % more stable tables in pdf
+    \usepackage{array}
+    \newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1\textwidth}}
+    ```
+# Taken from Nathan Lambert's RLHF book metadata https://github.com/natolambert/rlhf-book/blob/main/metadata.yml
 ---
 

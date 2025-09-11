@@ -1,0 +1,147 @@
+### **Part 4: Strategy**
+
+#### **Argument Resolution**
+
+The next thing to talk about is argument resolution, which flows naturally from good research. Argument resolution is what wins debates. It’s what makes judges prefer your side of an issue over your opponent’s.
+
+The golden rule of argument resolution is that **your comparisons can only be as good as your evidence**. It’s hard to make a compelling case for why your evidence is better / more recent / more specific / written by someone more qualified if it just isn’t. 
+
+I actually wrote a blog post a year ago [here](https://ethanelasky.github.io/posts/improving-argument-extensions.html) about argument extensions that I think nails the basics of comparison. One thing I’d like to emphasize is the value of learning how to clash as a novice. There are certain arguments that you can read as a novice that make the debate a lot easier for you (e.g. a small aff that avoids links to most disadvantages, or a process counterplan strategy that lets you steal most of the aff). Although these arguments are strategic in the immediate sense, they are not a sustainable strategy in the long-term. These arguments have a high floor but a low ceiling; in other words, you’ll sweep your inexperienced opponents, and your more experienced opponents will sweep you (with arguments like topicality or perms/theory, respectively). Rather than reading clash-avoidant strategies when you’re starting debate, it’s best to read the biggest affs and the most generic negative strategies. Instead of seeking to avoid predictable clash, you should embrace it—and then get good at beating your opponents because you’re just better at disagreement than them. That was one thing it took me way too long to learn. You can listen to this HS Impact podcast episode (TODO insert) if you’re interested in hearing more reasons as to why you should try to engage in clash-maximizing strategies as a novice. 
+
+Lastly, learning how to clash is essential for deploying clash-avoiding strategies well at more advanced levels. Skilled debaters will have answers to everything, so when it comes time to break a process counterplan versus a new aff, you’ll be prepared to deal with them.
+
+#### **Strategy**
+
+We’ve talked a lot about individual arguments and ways to organize them but much about how they interact, which is called strategy. This chapter is likely going to be the least useful to you in the immediate term. It’s also the most difficult for me to write about. This is because strategy is based on awareness and intuition. As a beginner, it’s hard to see the ways in which things mesh. As you grow into an experienced debater, you’ll start to notice when things on one page are actually relevant to another. You’ll also start to learn which positions work well together, as well as how to make it as hard for the other team to win. 
+
+It’s important for us to discuss the theory behind awareness because otherwise there’s no generalizable way to approach all debates. Thus, we’ll start from the general as usual, then move to the specific, and then finally use the specific to move back to the general. The implementation of this structure is a bit different this time since we’re going to be looking at explicit statements but don‘t worry it won’t be hard to understand.
+
+We’re first going to talk about the philosophy of games. If you’re a nerd who likes reading abstract philosophy, you can read the book *Finite And Infinite Games* by James Carse and try to draw these conclusions yourself. Chances are though that you’re not, so I won’t waste your time by telling you to read the book. I’ll simply state the important stuff. 
+
+There is one more assumption worth bringing up. The assumption is that you want to win at debate. If you don’t, I’m not sure why you’re reading this book. Let’s start looking at the general.
+
+Assumption 1: Debate is a game.
+
+*How is debate a game?*
+
+This observation seems obvious but there’s a bit to unpack. First, how do we define debate? Obviously, in a narrow sense, the 45-minute round can be considered a game. There are two competitors, there is a clear winner and loser, and there is a judge.
+
+There are a few more implications to this. If there is only the potential for one winner and one loser, then by definition, the game is zero-sum. Any advantage you incur is necessarily a disadvantage for your opponent, and vice versa. Any time you make the debate more difficult for your opponent, you make it easier for yourself. If you want to jump ahead to specifics, Scotty has some good elaboration of this point [here](https://hsimpact.wordpress.com/2018/05/23/debate-and-chess-nettlesomeness/). 
+
+Under this framework, it doesn’t make sense to hold your style/positions as your identity. If your opponents are bad at beating the K and your judge is good for the K, it makes sense to pull out the Spanos file you’ve been working on, even if you might usually go for policy arguments. 
+
+But wait, you’re probably asking. Let’s take the concept of games being zero-sum to its limit. Say your opponent’s computer is running out of power, and they forgot their charger. You have the option to led them your charger. Under this ruleset, wouldn’t that make it harder for you to win? This seems very unintuitive and against the spirit of competitive debate. To account for this, we have to tack on stuff to our original statement:
+
+Assumption 1 (revised): Debate is a game decided by an observer.
+
+The new rule solves the concern we have about the computer unplugging example. The judge will intervene if a debater does something extreme like unplugging their opponent’s computer or saying an offensive slur. However, this adds a new concern: remember my previous ranting about how you have to adapt to your judge? This explains in theoretical terms why it’s necessary to do so: because every debate round is a new game with a different evaluator. The judge has the power to decide the game, which means they are the ones who make the game in a sense. You are at the mercy of their decision. It’s up to them to enforce rules, disqualify extreme behavior, and reward skill. The problem is that all judges see skill differently. Which implies that there is no one unified “debate.” Rather, there’s a related set of activities with often common goals that can be called “debate.” When you try to improve, you are improving to get better at a related set of activities—not just one.
+
+So I know I just basically reiterated my previous discussion on how judge adaptation is important but this is a theoretical grounding that I hope is stronger for you to grapple with than “man if you want to win more you just need to adapt more.” 
+
+So we can talk about more questions within this concept of debate as a 45-minute type of game, each round containing slightly different rules and incentives depending on the judge. The win condition is always the same, which is the judge thinking you won, but of course how to get there depends on the round. 
+
+We’ll talk about the specifics of how judges evaluate rounds. Judges evaluate most rounds by comparing the 2NR to the 2AR in some case, either more technically (as in circuit debate) or just based on feel (as in lay debate). They’ll usually strike noticeably new arguments, which is the reason people can’t just stay silent the entire debate and then give a winning 2NR/2AR. In a technical sense, this implies that the other speeches in the debate are only relevant insofar as they set up the final speech on each side. This may seem obvious but think of how many times debaters have given a 1AR that utilized exactly 0% of what their 1AC argued.
+
+I’ll restate the point I just made:
+
+2. Final speeches are of ultimate value in debate. Earlier speeches are only valuable when they set up final speeches.
+
+Accordingly, people should write their 1ACs with possible 2ARs in mind. Stuff should not go in a 1AC if it is not in a possible 2AR. One common place I see this is when people read an “underview” (like an overview, but at the end of their speech) in their 1AC. Those K preempts that people don’t practice and don’t know how to use aren’t a possible 2AR.  
+
+Final speeches also have the greatest amount of information. Imagine how easy the debate would be if you were aff and had no speeches besides a 13-minute 2AR. You would have tons of time to read a plan that avoids links to the 2NR’s strategy. It would basically be an aff auto-win. We can conclude a general rule:
+
+3. Time later in the debate is more valuable than time earlier in the debate.
+
+This is because the more the opponent has spoken, the more information you have. And information is good because it helps you craft better final speeches. The opposite applies to your opponent. The later you can put things, the less time your opponent has to respond to your arguments. 
+
+Therefore it’s smart to read Gordon versus Afropessimism in the 1AR instead of the 1AC. Gordon is just so good that K teams with a bunch of 1NC time to spare (which they always have) will dump on it so hard that it’s impossible for you to wade through their answers and extend it in the next speech. Even if you do wade through it, you’ve likely sacrificed valuable 1AR time that could’ve been spent reading more answers/tricks that the 2NR has to answer. And, the 2NR will be able to credibly extend and weigh an undercovered 1NC warrant for why Gordon is wrong, making the 2AR very difficult.
+
+It’s better for you to read it in the 1AR since they only have the time-crunched 2NR to answer it in, and you have a sizable amount of the 2AR to rebut their 2NR answers if you decide to go for it (which a lot of the time you should).
+
+Sometimes people will read throwaway 1NC positions; they think that by doing so, they’ll pressure their opponent into misallocating time. This follows the above principle of constructive time being less valuable than rebuttal time. The trade is 1NC time for 1AR time. Sometimes, the trade is in the neg’s favor. Early in my career, I read a 1 card Baudrillard critique against an opponent a bit newer to debate. The opponent overcovered it because it was unfamiliar, and I won the round due to their poor time allocation. If I had done this versus someone more skilled, they would’ve dispatched it quickly, giving me a negative time tradeoff. In this round, this worked out for me in that I won my debate round, but it didn’t get me especially good speaker points. Speaker points don’t nicely fit into our definition of debate in (1), which leads me to my next point.
+
+This is where I’ll do the transition to a broader definition of debate. This debate is the game of the tournament. This tournament game has subgames (rounds) within it. There are a few things that we have no control over in tournaments. We can’t influence who we debate in prelims. We can’t control exactly when we’ll get favorable and unfavorable judges. We can’t control the side we are assigned.
+
+But there is a lot that can be influenced. Speaker points, wins and losses, and judge prefs are only some of many. The ultimate goal of the tournament game is a victory in the finals. This goal is obviously unattainable to most, as there tend to be the same recurring figures in out-rounds at most high-level tournaments. 
+
+I’m going to define a third and final game here to juxtapose the previous game with. This third game is the game of improvement. It exists outside of competition in the micro or the macro sense. Our focus between these second and third games should shift as you get better at debate. As a novice, it’s best to have a lot of investment in the improvement game. I can guarantee that tournament performance will not be stellar, and this should not be controversial. After all, the people who are best at debate are good at it for a reason—they’ve invested in being good. 
+
+In fact, one of the worst things that can happen to a novice is strong early success. [Novices who have strong early success tend to have their egos inflated by their victory](https://en.wikipedia.org/wiki/Illusion_of_control), which makes them hard to coach. Their closed-mindedness usually leads to a plateau that takes effort to break free from. I say this with firsthand experience.
+
+Orientation towards debate as mainly a tournament game in novices is bad. My discussion in Chapter 4 on this issue is a further demonstration of this. Novices should instead be oriented towards the improvement game, as that is what will give them the greatest rewards in the long run. 
+
+People often make the mistake of completely ignoring tournaments in favor of improvement. This is not my stance. It’s important to understand losses as places of improvement and wins as rewards for acting well. But it’s also important to not let wins cloud improvement (again, see Chapter 4). It’s important to distinguish “I won BECAUSE I did X” from “I won DESPITE doing X.”
+
+Put simply, the improvement game is extremely difficult without a coach. Coaches are valuable because they can tell you whether X is bad or good on a case-by-case basis. You should rely on an expert’s relatively effortless and quick intuition when you can. It’s better than your own rationality, which is effortful, time-consuming, and more prone to making mistakes. Don’t just take their intuition as gospel, though. You should ask them for the reasoning behind it. What is the balance that they’re striking between competing concerns? Coaches and judges disagree on a lot of things, meaning that you should understand why/how different people prioritize/balance things differently in their heads.
+
+Coaches are also useful because they can define the game of improvement for you. In other words, they can help you make goals. I suppose that this book is meant to define the game of improvement, although it feels like I’ve just given you a survey of it.
+
+Some coaches will naturally be your general manager (GM) for you and some won’t. What I mean by this is that some coaches will holistically evaluate your ability and direct you towards what needs work. They’ll provide a framework for you to understand why you need to work on that skill and will give you a goal intended to motivate your progress.
+
+Other coaches’ first instinct won’t be to be your GM. This can happen when you have a team of coaches—whose responsibility is it to take charge of each student? It’s easy for these coaches to feel like they don’t have enough involvement to dictate your present/future action.
+
+These coaches aren’t bad. Their first instinct will be to balance what you want with what they think you need. You might need to push them a little and ask them for more general evaluation, but it’s not like they’re incapable of it. Don’t be afraid to ask for this. One way to do this well is to ask them to isolate a skill they think you need to work on. You can ask them to work on a plan with you that charts out how long it’ll take (say 5 weeks) to get better at that skill. You can fill in the weekly/biweekly/etc lesson topics to focus on improvement on those topics, and you can propose stuff you’ll be doing daily to improve at that skill. Some coaches are reluctant to offer a proactive schedule themselves, but if you take the initiative 99% of coaches would be happy to help you edit your improvement plans.
+
+The danger with the improvement game is that you can often lose touch of the tournament/45-minute round game. If your coach gives you infinite prep time, you’re not cultivating the skill of thinking quickly and working efficiently. If you don’t time yourself while working on charisma, you might find yourself having a tradeoff between charisma and word economy. It’s important for your improvement game to mimic the conditions of real rounds. If you’re interested in reading more about this, see my discussion on overfitting [here](https://elaskydebate.xyz/overfitting-1/).
+
+As you get better, you’ll start to have your own intuition for debate as a set of games. You’ll have better awareness of what goes on in debate rounds, meaning you’ll be better suited to interpreting wins and losses in debate rounds for what they are: contingent decisions validating specific actions rather than validation of one debater’s ultimate triumph over another. This is the time to start reincorporating large parts of the tournament game into your awareness. Going from getting to bid-rounds to winning bids to even further has way less dead ends than does going from 2-4 to bid-round. So, it’s less dangerous to care more about the tournament game. Of course, for some (including me at times), caring about the tournament game too much creates feelings of anxiety, in which losses can lead to feelings of low self-worth. The advice I can offer is to find your personal balance of the tournament and the improvement games. This won’t be something you can do in an hour or even over the duration of a single tournament. Changing your thought patterns takes time which means it has to be a commitment. Sacrificing looking at results from tournaments you didn’t attend might be worth it to not think about results defining a debater’s ultimate worth. But, not looking at your RFDs in pursuit of that same goal is only smart if your goal isn’t to win at debate. If you want to read more about this games stuff in a more approachable sense (which the Carse book I mentioned earlier is definitely not), see *The Inner Game of Tennis*, which I found very interesting despite never seriously playing tennis. It’s a short read and I think debaters will get something out of it. 
+
+Okay so I’ve spent a bunch of time discussing the abstract philosophy of games as they relate to debate. I’ve also discussed philosophies of improvement. That 2500 words went by surprisingly quickly.
+
+So now that I’ve ruined your attention span and caused your eyes to glaze over with general rambling, I’ll talk about the specifics.
+
+I’ve thought about how to organize this section for a bit but I don’t have an answer. So I’ll just rant about neg and then aff. I’ve rewritten this part at least three times, each with different organization, so I’m gonna say screw it and do it differently, hoping I’ll be satisfied with this draft.
+
+We’ll start with the philosophy of research. There’s a bit of a chicken-egg problem here. If I talk about aff research first and then explain how neg research is reactive to possible AFFs, I’ll be neglecting the fact that the best AFFs are reactive to negs, maximizing aff ground in comparison to neg ground. If I talk about how AFFs are reactive first, then I’ll be begging the question of reacting to what. So we’ll discuss negs first and just assume the neg has to prep the whole topic, not just the most common affs (which is correct).
+
+Let’s assume you want to sum up the affs you’ll be debating. To win against every aff, you’ll need to have at least one 2NR against every aff, whether that be a generic, topicality, or a specific case argument. Just make sure that you have a 2NR (preferably more than one) against every aff before your first tournament.
+
+The first thing I’ll talk about are generics. These are hard to find but are well worth your time. Generics are arguments that answer every aff in a category (i.e. in the category of being topical) which means they save you the effort of cutting entirely specific case negs against each aff. There’s no question that generics are often the best arguments on a topic. I’ll give a bunch of examples of generics run rampant on each topic. On the 2019 Lincoln-Douglas JanFeb military aid topic, the demining PIC beat literally every aff. On the 2017-2018 college policy healthcare topic, the States counterplan was literally topic-warping. On basically every topic since the beginning of time, there have been politics disads run in conjunction with whatever the Agent CP du jour was. On all international topics, there are critiques of realism that apply to basically every policy aff. The point I am making is that almost all topics have generics that will just destroy any aff not built to beat them.
+
+Try to brainstorm aff responses and brainstorm potential 2NR responses that you can put in your file. It also helps to have specific evidence for each aff that you read with your generic, depending on how good your general link evidence is. For instance, it helped DebateDrills a lot when reading the Bioweapons DA on the Lincoln-Douglas 2020 nuclear weapons topic to have evidence that X country specifically had motivation to acquire substitute weapons in addition to our general link evidence.
+
+The next thing I’ll talk about is topicality. Topicality on many topics can be a generic. If you have two topicality violations, one saying the aff must include X and one saying the aff must not include X, then you have a winner. 
+
+The last thing I’ll talk about with regards to the topic is specific case negative positions. This should be the last thing you work on, as it will apply on top of your generics that you hopefully cut links to every aff for. As the topic goes on and as you get better, you’ll be expected to have better evidence that is more specific to the aff. Otherwise, the aff will be able to point this out, and at some point your craftiness will have diminishing marginal returns.
+
+There comes a time while being neg when none of your prep seems to apply. Assuming you did your prep well, the aff is most likely non-topical and you should go for T. Some other strategies versus cheaters are found in my discussion of non-topical affs in Chapter 12.1. Again, I’d like to reiterate that T is far and away the best position and is where you should spend most of your time preparing for non-topical affs. Truth and justice. 
+
+Scotty makes the points I made above [here](https://hsimpact.wordpress.com/2016/02/24/so-you-want-to-win-the-toc-part-1/) so if you want to read the same thing in a bit more detail feel free.
+
+So now let’s talk about AFF research. This research is a lot harder than neg research because you have to isolate several affirmatives, figure out what the neg responses/generics to each are, and then pick the one that has the best answers. I haven’t found a shortcut for this, BUT writing a “good enough” aff for the first tournament or two and then re-evaluating (especially over winter break/after the regular season ends on the TOC topic) will often do. 
+
+People often write 1ACs with the goals of avoiding clash, but this is bad practice for everyone but those who are past the bid level. It’s a clear example of how maximizing in-round strategy as a younger debater sometimes trades off with focus on the improvement game. 
+
+Peoples’ first instincts whenever they play a game like debate is to figure out how to win. They’ll find strategies that work for them and then stick to those strategies, investing more time because they assume that what worked for them at lower levels will continue to work well. But, as we saw with the process counterplan example, there are usually diminishing marginal returns to getting good at process counterplans. Getting good at process counterplans develops a specific skillset (i.e. avoiding clash, getting good at “risk of a link” framing) which often isn’t applicable to other styles of debate. My point here is that the strategy for maximizing wins early on (reading a process counterplan or a clash-avoiding 1AC) doesn’t readily translate over to maximizing wins as a debater in out-rounds (beating your opponents with intense amounts of argument resolution). To close this thought, stick with big 1ACs arguments unless you’re consistently bidding. Big 1ACs are where most of the literature is, ensuring that you have not only enough evidence for your 1AC but also for easily available viable 1AR addons and 1AR blocks.
+
+So now let’s talk specifically about answering specific neg strategies. The things I’ll talk about are all preparable pre-tournament which means you shouldn’t have any excuse to lose to good neg strategy.
+
+I’ll list neg strategies and discuss how to answer them. 
+
+1. When the neg reads a counterplan that solves the aff and has a net benefit.
+
+The aff has a few ways to address this situation. First, they can prevent it from happening by reading advantages that aren’t solved by the same counterplan. Second, the aff can go for a solvency deficit. You can do this in two ways. You could read evidence in the 1AC that only your method solves—e.g. “ONLY Congressional action solves” is a good preempt to agent counterplans. You could also start the solvency deficit debate in the 1AR, either by sticking to your advantage or by reading an addon. So what is an addon, you’re probably wondering.
+
+Addons are new pieces of aff offense. Affs in policy debate will often read them against counterplans that solve the rest of their aff. For example, if the neg reads an executive counterplan versus a Congress aff, the aff’s addon could say that Congressional action is independently key to solving X impact. They’re not read in LD because people are scared of devoting part of the 1AR to new offense, considering that they’re already at a time disadvantage. And, it’s unclear whether the neg gets 2NR counterplans to answer AFF addons. However, they are a good way to answer tricky negs.
+
+The third option is to turn the net benefit. Aff choices are usually the link turn and the impact turn. There’s usually evidence for both, and you should be prepared to do both. I’ll talk more about when to do each later. 
+
+The last thing I’ll say is to prepare to deviate from your plans if the neg is too hard to beat. If the neg reads multiple plan-inclusive conditional counterplans that link to each other’s net benefits, as well as a topicality argument and good case answers, you’re going to be in a tough spot. You can’t link or impact turn just one net benefit because the neg can always just go for the other counterplan. Extending your aff and reading addons will be difficult because the neg can just kick the counterplan that doesn’t solve the addon and go for one that does. Winning the debate on defense will be tough with a risk of a net benefit. The real solution here requires some combination of introducing new offense, because you will lose this debate if you stick to your aff unless your answers are just incredible. Prepare to invest in conditionality bad (and PICs bad if your judge is good for it). You should also consider turning every net benefit or not going for your aff and reading addons that one or more of their counterplans don’t solve. And don’t forget to put some defense on each net benefit. That way your 2AR can either be a compelling theory argument or some offense that isn’t easily solved by a counterplan, which puts a lot of pressure on the 2NR.
+
+I know it might seem naïve for me to suggest all of these strategic options while knowing that you probably don’t have this much prep. For people not yet 4-2/bid round, I suggest not worrying too much about the above advice. You might want to focus on your fundamentals more before you start wading into this. If you are 4-2 and frustrated, though, it is wise to start thinking about this and preparing this way. 
+
+2. When the neg reads a K.
+
+I hinted at how to answer this in Chapter 9. 
+
+Basically there are two main strategies versus the K. You can either win your aff is good under your framing, or you can win it is good under theirs. Your preparation should involve a bunch of things. 
+
+Either way though you need to minimize the connection between what they think is wrong with the world and your aff. In other words, you should follow the “offensive defenses” strategy I isolated in Chapter 9. In case you need to see the articles Scotty wrote again, see [here](https://hsimpact.wordpress.com/2019/09/25/prepping-to-defend-your-aff/) and [here](https://hsimpact.wordpress.com/2019/09/26/prepping-to-defend-your-aff-2-mechanics/). 
+
+Okay so I’ve gone through some neg cases and discussed a bunch of aff prep. I’m going to stop writing about doing prep because I think I’ve said enough. If you want to read more, check out the following:
+
+Scotty mega link section: Writing a new aff [here](https://hsimpact.wordpress.com/2017/03/11/toc-prep-4-meta-game-strategy-and-the-dying-of-the-light/), why new AFFs aren’t always the best [here](https://hsimpact.wordpress.com/2016/02/25/so-you-want-to-win-the-toc-part-2/), how to do neg prep [here](https://hsimpact.wordpress.com/2021/02/26/the-clock-is-ticking/), how to survey the wiki and find prep updates [here](https://hsimpact.wordpress.com/2017/03/08/toc-prep-2-updates/). 
+
+So we’ve discussed research on both sides to some degree. Now I want to talk about pre-round strategy. The first things you should be thinking about are your opponent and your judge. If you’re playing the improvement game primarily, try to debate your opponent at their strongest. If you’re playing the tournament game, try to take advantage of their weakness. No matter which game you’re playing, you should adapt to your judge. If you’re playing the tournament game, they’ll have the best understanding of arguments they’re familiar with, minimizing the chance of an erroneous loss. If you’re playing the improvement game, they’ll be able to give you the best feedback on things. 
+
+That means it’s smart to not read a complicated K in front of policy hacks and equally not smart to have a dense counterplan competition debate in front of a K judge.

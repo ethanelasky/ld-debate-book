@@ -1,74 +1,9 @@
-# Introduction
+#### **Introduction**
 
-This is the first paragraph of the introduction chapter.
+This book will cover every aspect of becoming a great debater. Skills in charisma, sound, organization, micro-argumentation, macro-argumentation, research, argument resolution, and strategy are all necessary. They’re mainly achievable through high-quality and deliberate practice. 
 
-## First: Images
+Part 0 is a quick overview of the activity and rules of Lincoln-Douglas debate. Part 1 is about form, where I will discuss how to achieve charismatic flair, how to sound great, and how to expertly organize speeches. Part 2 will focus on the argumentative content of a speech. Part 3 will focus on argument and position research. Part 4 will deal with strategy and will explain how to combine all of the prior factors to succeed. The final section contains a glossary of common debate jargon (there is a lot). After the glossary will be some extraneous sections that readers may find useful. These include different “levels” of debaters, why intuition matters, some “secret sauces” to getting better, and some improvement advice.
 
-This is the first subsection. Please, admire the gloriousnes of this seagull:
+My ultimate goal is to convince you that it’s never too late to be great at debate. Hard work is important, but it’s equally important to coordinate your efforts so you don’t waste your time. To be precise, you can get good at debate with a year of concentrated effort, smart decisions, and good mentorship, along with a hardworking team.
 
-![A cool seagull.](images/seagull.png)
-
-A bigger seagull:
-
-![A cool big seagull.](images/seagull.png){ width=320px }
-
-## Second: Tables
-
-This is the second subsection.
-
-
-Please, check [First: Images] subsection.
-
-Please, check [this](#first-images) subsection.
-
-| Index | Name |
-| ----- | ---- |
-| 0     | AAA  |
-| 1     | BBB  |
-| ...   | ...  |
-
-Table: This is an example table.
-
-## Third: Equations
-
-Formula example: $\mu = \sum_{i=0}^{N} \frac{x_i}{N}$
-
-Now, full size:
-
-$$\mu = \sum_{i=0}^{N} \frac{x_i}{N}$$
-
-And a code sample:
-
-```rb
-def hello_world
-  puts "hello world!"
-end
-
-hello_world
-```
-
-Check these unicode characters: ǽß¢ð€đŋμ
-
-## Fourth: Cross references
-
-These cross references are disabled by default. To enable them, check the
-_[Cross references](https://github.com/wikiti/pandoc-book-template#cross-references)_
-section on the README.md file.
-
-Here's a list of cross references:
-
-- Check @fig:seagull.
-- Check @tbl:table.
-- Check @eq:equation.
-
-![A cool seagull](images/seagull.png){#fig:seagull}
-
-$$ y = mx + b $$ {#eq:equation}
-
-| Index | Name |
-| ----- | ---- |
-| 0     | AAA  |
-| 1     | BBB  |
-| ...   | ...  |
-
-Table: This is an example table. {#tbl:table}
+This book talks about debate the way that it’s talked about on the national circuit, which has its own rich jargon. You can view the glossary if you’re ever confused.

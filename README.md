@@ -8,6 +8,23 @@
 This repository contains a simple template for building [Pandoc](http://pandoc.org/) documents;
 Pandoc is a suite of tools to compile markdown files into readable files (PDF, EPUB, HTML...).
 
+This is a work-in-progress textbook covering the fundamentals of Lincoln-Douglas debate. The code is licensed with the MIT license, but the content for the book found in chapters/ is licensed under the Creative Commons Non-Commercial ShareAlike Attribution License, CC-BY-NC-SA-4.0. 
+
+### Citation
+To cite this book, please use the following format.
+```
+@book{debate2025,
+  author       = {Ethan N. Elasky},
+  title        = {Lincoln-Douglas Debate from First Principles},
+  year         = {2025},
+  publisher    = {Online},
+  url          = {example.com },
+  % Chapters can be optionally included as shown below:
+  % chapters   = {Introduction, Background, Methods, Results, Discussion, Conclusion}
+}
+```
+----
+
 ## Usage
 
 ### Installing

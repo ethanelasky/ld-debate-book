@@ -10,9 +10,9 @@
   <meta property="og:image" content="https://raw.githubusercontent.com/natolambert/rlhf-book/main/images/rlhf-book-share.png" />
   <meta property="og:image:width" content="1920" />
   <meta property="og:image:height" content="1080" />
-
+  
   <!-- <meta property="og:title" content="$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$" /> -->
-  <meta property="og:title" content="LD Debate Book by Ethan Elasky" />
+  <meta property="og:title" content="$if(page-title)$$page-title$$else$$title$$endif$ | LD Debate Book by Ethan Elasky" />
   <meta property="og:description" content="The Lincoln-Douglas Debate from First Principles Book" />
   <meta property="og:url" content="https://lddebatebook.com" />
 
@@ -25,12 +25,16 @@ $endif$
 $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
-  <!-- <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title> -->
+  <!-- <title>RLHF Book</title> -->
    <!-- SEO and Open Graph titles -->
-  <title>
-    LD Debate Book by Ethan Elasky
+   <title>
+    $if(page-title)$
+      $page-title$ | LD Debate Book by Ethan Elasky
+    $else$
+      $title$ | LD Debate Book by Ethan Elasky
+    $endif$
   </title>
-
+  
   <style>
     $styles.html()$
     $style.css()$
@@ -58,6 +62,7 @@ $endfor$
 
 <!-- custom js nav -->
 <script src="nav.js" defer></script>
+<script src="header-anchors.js" defer></script>
 
 </head>
 <body>
@@ -66,51 +71,66 @@ $include-before$
 $endfor$
 $if(title)$
 <header id="title-block-header">
-<h1 class="title">$title$</h1>
+<h1 class="title"><a href="https://lddebatebook.com/" style="color: inherit; text-decoration: none;">$title$</a></h1>
 $if(subtitle)$
 <p class="subtitle">$subtitle$</p>
 $endif$
 $for(author)$
 <p class="author">$author$</p>
 $endfor$
-<navigation-dropdown expanded="true"></navigation-dropdown>
+<navigation-dropdown expanded="false"></navigation-dropdown>
 
-$if(abstract)$
-<div class="abstract">
-  <h2>Abstract</h2>
-  $abstract$
-</div>
-$endif$
 </header>
 $endif$
-  <section id="changelog" style="padding: 20px; text-align: center;">
-    <h2>Changelog</h2>
-    <p><strong>10 September 2025 </strong>: First edition.</p>
-  </section>
-  <section id="acknowledgements" style="padding: 20px; text-align: center;">
-    <h2>Acknowledgements</h2>
-    <p>I would like to thank the people who helped me directly with this project. A major shoutout to Scott Phillips, for answering my detailed questions and for writing the HS Impact blog, which I cite extensively.</p>
-    <p>I would also like to acknowledge those who have significantly influenced my thoughts about debate, whether through lab, coaching sessions or writing. An incomplete list: Whit Jackson, Paras Kumar, Raffi Piliero, David Asafu-Adjaye, Jacob Nails, Danielle and David Dosch.</p>
-    <p>Additionally, thank you to the <a href="https://github.com/natolambert/rlhf-book/graphs/contributors">contributors on GitHub</a> who helped improve this project.</p>
-  </section>
-  <footer style="padding: 20px; text-align: center;">
-    <hr>
-    Citation <br>
-    <div style="text-align: left; font-size: small; color: #888;">
-      @book{rlhf2024,<br>
-      &nbsp;&nbsp;author = {Ethan Elasky},<br>
-      &nbsp;&nbsp;title = {Lincoln-Douglas Debate from First Principles},<br>
-      &nbsp;&nbsp;year = {2025},<br>
-      &nbsp;&nbsp;publisher = {Online},<br>
-      &nbsp;&nbsp;url = {https://lddebatebook.com}<br>      }
-    </div>
-    <div>
-      <a href="https://github.com/natolambert/rlhf-book" target="_blank">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 40px; height: 40px;">
-      </a>
-      <!-- Add more social links here -->
-    </div>
-    <p>&copy; 2024 Ethan Elasky</p>
-  </footer>  
+<div> <h3> Chapter Contents </h3> </div>
+$if(toc)$
+<nav id="$idprefix$TOC" role="doc-toc">
+$if(toc-title)$
+<h2 id="$idprefix$toc-title">$toc-title$</h2>
+$endif$
+$table-of-contents$
+</nav>
+$endif$
+<div id="content">
+  $body$
+</div>
+
+<div id="chapter-navigation" style="display: flex; justify-content: space-between; padding: 2em 0;">
+  $if(prev-url)$
+  <a href="$prev-url$" class="prev-chapter">
+    ← Previous: $prev-chapter$
+  </a>
+  $else$
+  <div></div>
+  $endif$
+  
+  $if(next-url)$
+  <a href="$next-url$" class="next-chapter">
+    Next: $next-chapter$ →
+  </a>
+  $endif$
+</div>
+$for(include-after)$
+$include-after$
+$endfor$
+<footer style="padding: 20px; text-align: center;">
+  <hr>
+  Citation <br>
+  <div style="text-align: left; font-size: small; color: #888;">
+    @book{rlhf2024,<br>
+    &nbsp;&nbsp;author = {Ethan Elasky},<br>
+    &nbsp;&nbsp;title = {Lincoln-Douglas Debate from First Principles},<br>
+    &nbsp;&nbsp;year = {2025},<br>
+    &nbsp;&nbsp;publisher = {Online},<br>
+    &nbsp;&nbsp;url = {https://lddebatebook.com}<br>      }
+  </div>
+  <div>
+    <a href="https://github.com/natolambert/rlhf-book" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 40px; height: 40px;">
+    </a>
+    <!-- Add more social links here -->
+  </div>
+  <p>&copy; 2024 Ethan Elasky</p>
+</footer>
 </body>
 </html>

@@ -1,0 +1,7 @@
+#### **Preface**
+
+*Why did I write this work?*
+
+I started writing this project after joining DebateDrills as an assistant coach. Why write about debate? The answer is that in coaching, I have seen the ways in which issues arise. Most of these issues arise because students are missing foundational understandings about debate or life more broadly. Additionally, many of these issues are not solvable within a single coaching session, let alone a summer camp session. My goal is to get the ball rolling on these issues by the time you finish this text. A lot of these issues may take months or years to completely solve, and different parts of this book may speak to you at different parts of your career. This book exists to unify this knowledge, to organize my own and others’ thoughts. The questions I’m isolating are questions nobody truly answered for me until the last year of my career, and even then, I had to go through a long, frustrating process to figure these things out before finally excelling at debate. 
+
+Although these chapters won’t get you to the Tournament of Champions by themselves, I hope they can provide the lens of the “general manager.” This is the type of higher-level thinking necessary to use time, effort, emotion, and capacity productively. 

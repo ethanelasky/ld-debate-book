@@ -12,7 +12,6 @@ tags: [book, debate, manual, guide, speech, competition, ebook]
 date: 10 Sep 2025
 abstract: |
   Your summary.
-mainfont: DejaVu Sans
 Filter preferences:
   - pandoc-crossref
 geometry:

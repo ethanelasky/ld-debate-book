@@ -59,9 +59,9 @@ jobs:
 
       # Need this if main domain is www.lddebatebook.com
       # For now, it is lddebatebook.com, and seems to be working.
-      # - name: Create CNAME file
-      #   run: |
-      #     echo "www.lddebatebook.com" > build/html/CNAME
+      - name: Create CNAME file
+        run: |
+          echo "www.lddebatebook.com" > build/html/CNAME
 
       # pages deploy steps
       - name: Setup Pages

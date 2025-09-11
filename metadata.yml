@@ -11,7 +11,7 @@ otherlang: english
 tags: [book, debate, manual, guide, speech, competition, ebook]
 date: 10 Sep 2025
 abstract: |
-  Your summary.
+  This book will cover every aspect of becoming a great debater. Skills in charisma, sound, organization, micro-argumentation, macro-argumentation, research, argument resolution, and strategy are all necessary. They’re mainly achievable through high-quality and deliberate practice.
 Filter preferences:
   - pandoc-crossref
 geometry:

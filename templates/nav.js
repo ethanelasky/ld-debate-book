@@ -26,13 +26,16 @@ class NavigationDropdown extends HTMLElement {
       <div class="section">
         <h3>Form</h3>
         <ol start="2">
-          <li><a href="c/03-form.html">Form</a></li>
+          <li><a href="c/03-00-form-intro.html">Form Intro</a></li>
+          <li><a href="c/03-01-charisma.html">Charisma</a></li>
+          <li><a href="c/03-02-sound.html">Sound</a></li>
+          <li><a href="c/03-03-organization.html">Organization</a></li>
         </ol>
       </div>
 
       <div class="section">
         <h3>Arguments</h3>
-        <ol start="3">
+        <ol start="6">
           <li><a href="c/04-00-arguments-intro.html">Arguments Intro</a></li>
           <li><a href="c/04-01-arguments.html">Arguments</a></li>
         </ol>
@@ -40,7 +43,7 @@ class NavigationDropdown extends HTMLElement {
 
       <div class="section">
         <h3>Macro-arguments</h3>
-        <ol start="4">
+        <ol start="8">
           <li><a href="c/05-00-macroarguments-intro.html">Macro-arguments Intro</a></li>
           <li><a href="c/05-01-disadvantage.html">Disadvantage</a></li>
           <li><a href="c/05-02-affirmative.html">Affirmative</a></li>
@@ -53,28 +56,28 @@ class NavigationDropdown extends HTMLElement {
 
       <div class="section">
         <h3>Research</h3>
-        <ol start="5">
+        <ol start="15">
           <li><a href="c/06-research.html">Research</a></li>
         </ol>
       </div>
 
       <div class="section">
         <h3>Strategy</h3>
-        <ol start="6">
+        <ol start="16">
           <li><a href="c/07-strategy.html">Strategy</a></li>
         </ol>
       </div>
 
       <div class="section">
         <h3>Conclusion</h3>
-        <ol start="7">
+        <ol start="17">
           <li><a href="c/08-conclusion.html">Conclusion</a></li>
           <li><a href="c/09-goals.html">Goals</a></li>
         </ol>
       </div>
             <div class="section">
         <h3>Extra</h3>
-        <ol start="7">
+        <ol start="19">
           <li><a href="c/XX-glossary.html">Glossary</a></li>
           <li><a href="c/ZZ-appendices.html">Appendices</a></li>
         </ol>
